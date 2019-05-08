@@ -7,10 +7,13 @@
     "test": "jest"
   },
   "dependencies": {
+    "native-base": "^2.12.1",
     "react": "16.8.3",
     "react-native": "^0.59.6",
+    "react-native-canvas": "^0.1.32",
     "react-native-gesture-handler": "^1.2.1",
     "react-navigation": "^3.9.1",
+    "save": "^2.3.3",
     "yarn": "^1.15.2"
   },
   "devDependencies": {

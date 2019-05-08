@@ -3,7 +3,7 @@
 // to determine what styles and components to apply. use the 'Platform' module
 
 const styles = StyleSheet.create({
-    container: {
+    viewStyle: {
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
