@@ -1,4 +1,6 @@
-
+// code will mostly be re-usable, except for platform specific components
+// For this case check the operating system for certain cases
+// to determine what styles and components to apply. use the 'Platform' module
 
 const styles = StyleSheet.create({
     container: {

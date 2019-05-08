@@ -1,10 +1,9 @@
 
-
 import React, { Component } from "react"
 import { View, Text } from "react-native"
 const styles = require("./LoginScreenStyleSheet")
 
-class LoginScreen extends Component {
+class LoginScreen extends React.Component {
     render() {
         return(
             <View>
